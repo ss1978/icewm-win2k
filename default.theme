@@ -1,0 +1,88 @@
+ThemeDescription="W2K"
+ThemeAuthor="Sándor Sipos"
+Look=win95
+TitleBarHeight=19
+TitleButtonsSupported="xmishd"
+TitleButtonsRight="x mi"
+TitleBarPad=2
+
+BorderSizeX=3
+BorderSizeY=3
+CornerSizeX=16
+CornerSizeY=16
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+
+DesktopBackgroundColor="rgb:39/6b/a5"
+ColorNormalBorder="rgb:D6/D6/CE"
+ColorActiveBorder="rgb:D6/D6/CE"
+ColorNormalTitleBar="rgb:D6/D6/CE"
+ColorActiveTitleBar="rgb:04/29/67"
+ColorNormalTitleBarText="rgb:00/00/00"
+ColorActiveTitleBarText="rgb:FF/FF/FF"
+ColorNormalMenu="rgb:CC/CC/CC"
+ColorActiveMenuItem="rgb:04/29/67"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="rgb:FF/FF/FF"
+ColorDisabledMenuItemText="rgb:80/80/80"
+ColorMoveSizeStatus="rgb:C0/C0/C0"
+ColorMoveSizeStatusText="rgb:00/00/00"
+ColorDefaultTaskBar="rgb:d6/d6/ce"
+ColorClock="rgb:d6/d6/ce"
+ColorClockText="rgb:00/00/00"
+ColorNormalButton="rgb:d6/d6/ce"
+ColorNormalTaskBarApp="rgb:d6/d6/ce"
+ColorMinimizedTaskBarApp="rgb:d6/d6/ce"
+ColorInvisibleTaskBarApp="rgb:d6/d6/ce"
+ColorMinimizedTaskBarAppText="rgb:50/50/50"
+ColorInvisibleTaskBarAppText="rgb:50/50/50"
+ColorNormalTaskBarAppText="rgb:00/00/00"
+ColorActiveTaskBarApp="rgb:ff/ff/FF"
+ColorActiveButton="rgb:ff/ff/FF"
+ColorActiveTaskBarAppText="rgb:00/00/00"
+ColorListBox="rgb:CC/CC/CC"
+ColorListBoxText="rgb:00/00/00"
+ColorListBoxSelection="rgb:CC/CC/FF"
+ColorListBoxSelectionText="rgb:00/00/00"
+ColorScrollBar="rgb:CC/CC/CC"
+ColorScrollBarSlider="rgb:CC/CC/FF"
+ColorScrollBarButton="rgb:CC/CC/CC"
+ColorScrollBarButtonArrow="rgb:00/00/00"
+ColorToolTip="rgb:dc/d9/d9"
+ColorCPUStatusIdle="rgb:d6/d6/ce"
+ColorCPUStatusUser="rgb:86/86/7e"
+ColorCPUStatusSystem="rgb:66/66/5e"
+ColorMEMStatusFree="rgb:d6/d6/ce"
+ColorMEMStatusCached="rgb:86/86/7e"
+ColorMEMStatusUser="rgb:66/66/5e"
+ColorNetIdle="rgb:d6/d6/ce"
+ColorNetSend="rgb:86/86/7e"
+ColorNetReceive="rgb:66/66/5e"
+ColorApmGraphBg="rgb:d6/d6/ce"
+ColorApmLine="rgb:86/86/7e"
+ColorApm="rgb:86/86/7e"
+ColorApmBattery="rgb:86/86/7e"
+
+
+
+
+
+TitleFontNameXft	       = 	"Tahoma:size=8:bold,sans-serif:size=8:bold"
+MenuFontNameXft	           =    "Tahoma:size=8,sans-serif:size=8"
+InputFontNameXft	       =    "Tahoma:size=8,sans-serif:size=8"
+MinimizedWindowFontNameXft =    "Tahoma:size=8,sans-serif:size=8"
+ActiveButtonFontNameXft    =    "Tahoma:size=8,sans-serif:size=8:bold"
+NormalButtonFontNameXft    =    "Tahoma:size=8,sans-serif:size=8"
+NormalWorkspaceFontNameXft =    "Tahoma:size=8,sans-serif:size=8"
+ActiveWorkspaceFontNameXft =    "Tahoma:size=8:bold,sans-serif:size=8:bold"
+QuickSwitchFontNameXft     =    "Tahoma:size=8,sans-serif:size=8"
+ListBoxFontNameXft         =    "Tahoma:size=8,sans-serif:size=8"
+StatusFontNameXft          =    "Tahoma:size=8,sans-serif:size=8"
+ToolTipFontNameXft         =    "Tahoma:size=8,sans-serif:size=8"
+ActiveTaskBarFontNameXft   =    "Tahoma:size=8:bold,sans-serif:size=8:bold"
+NormalTaskBarFontNameXft   =    "Tahoma:size=8,sans-serif:size=8"
+ClockFontNameXft           =    "Tahoma:size=8:bold,sans-serif:size=14:bold"
+ApmFontNameXft             =    "Tahoma:size=8:bold,sans-serif:size=14:bold"
+
+TrayDrawBevel=0 # 0 / 1
